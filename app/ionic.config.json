@@ -1,7 +1,0 @@
-{
-  "name": "MentalQuest Persona",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
